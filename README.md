@@ -1,6 +1,6 @@
 # Backend-Developer-Web-Tarea-01-SENATI
 
-Esta tarea trata sobre la construcción de un software que pueda identificar el área, perímetro y su tipo. Con los lados pasados en un input como parametros.
+Esta tarea trata sobre la construcción de un software que pueda identificar el área, perímetro y el tipo de un triángulo con los lados pasados en un input como parametros.
 
 ## Para la tarea utilizé:
 - PHP
